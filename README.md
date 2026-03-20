@@ -2,7 +2,7 @@
 Digital Literacy Portfolio project covering infographic design, professional profiles, coding platforms, email etiquette, and cybercrime awareness.
 # Digital Literacy Project
 
-## 👩‍🎓 Student Details
+##  Student Details
 - Name: Kavya Gupta
 - Reg No: 25BCE10453
 - Branch: B.TECH CSE CORE
@@ -49,5 +49,5 @@ Created a case study and prevention checklist.
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 This project helped me understand digital literacy, online safety, and professional communication skills.
